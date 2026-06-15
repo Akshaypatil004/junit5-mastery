@@ -48,7 +48,8 @@ class BankAccountTest {
 		assertAll("Account state afer opeations", 
 				() -> assertEquals(700, account.getBalance(), "Balance mismatch"),
 				() -> assertNotNull(account, "Account should not be null"),
-				() -> assertTrue(account.getBalance() > 0, "Balance should be positive"));
+				() -> assertTrue(account.getBalance() > 0, "Balance should be positive"),
+				() -> assertTrue(account.getBalance() > 1000, "Balance should be greater than 1000"));
 	}
 
 	@Test
