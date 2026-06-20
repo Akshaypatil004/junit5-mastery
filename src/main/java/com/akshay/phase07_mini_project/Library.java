@@ -1,5 +1,5 @@
 // Library.java
-package com.akshay.phase07_mini_project.model;
+package com.akshay.phase07_mini_project;
 
 import java.util.ArrayList;
 import java.util.Collections;

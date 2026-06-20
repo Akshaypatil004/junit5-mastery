@@ -1,5 +1,5 @@
 // BookTest.java
-package com.akshay.phase07_mini_project.model;
+package com.akshay.phase07_mini_project;
 
 import static org.junit.jupiter.api.Assertions.assertAll;
 import static org.junit.jupiter.api.Assertions.assertEquals;

@@ -1,4 +1,4 @@
-package com.akshay.phase07_mini_project.model;
+package com.akshay.phase07_mini_project;
 
 import org.junit.jupiter.api.*;
 import org.junit.jupiter.params.ParameterizedTest;

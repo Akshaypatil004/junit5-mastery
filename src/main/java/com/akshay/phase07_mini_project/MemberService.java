@@ -1,5 +1,5 @@
 // MemberService.java
-package com.akshay.phase07_mini_project.model;
+package com.akshay.phase07_mini_project;
 
 import java.util.*;
 
